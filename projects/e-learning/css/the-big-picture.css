@@ -1,0 +1,20 @@
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+
+  background: url("../assets/walbottle.jpeg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.whitesemi {
+	background: rgba(254, 254, 254, 0.7);
+	padding: 20px;
+	border-radius: 15px;
+}
